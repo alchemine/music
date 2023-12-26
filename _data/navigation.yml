@@ -51,6 +51,8 @@ header:
       # @end locale config
     url: /about.html
 
+
+docs-en:
   - title:      Diary
     children:
       - title:  2023
