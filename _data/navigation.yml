@@ -27,19 +27,6 @@ header:
 
 
 docs-en:
-  - title:      Diary
-    children:
-      - title:  2024
-        url: /archive.html?tag=Diary_2024
-      - title:  2023
-        url: /archive.html?tag=Diary_2023
-      - title:  2021
-        url: /archive.html?tag=Diary_2021
-      - title:  2020
-        url: /archive.html?tag=Diary_2020
-      - title:  2019
-        url: /archive.html?tag=Diary_2019
-
   - title:      Music
     children:
       - title:  2024
