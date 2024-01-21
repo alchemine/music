@@ -29,10 +29,10 @@ header:
 docs-en:
   - title:      Diary
     children:
+      - title:  2024
+        url: /archive.html?tag=Diary_2024
       - title:  2023
         url: /archive.html?tag=Diary_2023
-      - title:  2022
-        url: /archive.html?tag=Diary_2022
       - title:  2021
         url: /archive.html?tag=Diary_2021
       - title:  2020
@@ -42,5 +42,9 @@ docs-en:
 
   - title:      Music
     children:
-      - title:  Music
-        url: /archive.html?tag=Music
+      - title:  2024
+        url: /archive.html?tag=Music_2024
+      - title:  2023
+        url: /archive.html?tag=Music_2023
+      - title:  2019
+        url: /archive.html?tag=Music_2019
