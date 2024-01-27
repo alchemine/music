@@ -117,7 +117,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: custom # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -158,11 +158,11 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
+  provider: custom # "default" (default), false, "google", "custom"
 
   ## Google Custom Search Engine
   google:
-    custom_search_engine_id: # Google Custom Search Engine ID
+    custom_search_engine_id: e7910cdc8db3c4b3f  # Google Custom Search Engine ID
 
 
 ## => Analytics
@@ -213,6 +213,7 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+      comment: true
       sidebar:
         nav: docs-en
 
