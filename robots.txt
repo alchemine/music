@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alchemine.github.io/music/sitemap.xml
