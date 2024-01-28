@@ -1,5 +1,5 @@
 ---
-title: アンノウン・マザーグース - wowaka ft. 初音ミク
+title: アンノウン・マザーグース - wowaka feat. 初音ミク
 tags: Music_2023
 --- 
 
