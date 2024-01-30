@@ -5,8 +5,7 @@ tags: Music_2024
 
 <!--more-->
 
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm25027802/script?w=320&h=180"></script>
-<noscript><a href="http://www.nicovideo.jp/watch/sm25027802">【AviUtl】もっと簡単に滑らかなアニメーションができるスクリプト</a></noscript>
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm25027802"></script>
 
 
 <img src="https://f4.bcbits.com/img/a0878874151_10.jpg"
