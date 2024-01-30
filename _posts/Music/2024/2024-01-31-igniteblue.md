@@ -5,13 +5,8 @@ tags: Music_2024
 
 <!--more-->
 
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm25027802"></script>
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm25027802/script"></script>
 <noscript><a href="http://www.nicovideo.jp/watch/sm25027802"></a></noscript>
-
-
-<img src="https://f4.bcbits.com/img/a0878874151_10.jpg"
-  width="30%"
-  height="30%">
 
 
 ## Information (original)
