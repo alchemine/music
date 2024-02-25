@@ -8,6 +8,8 @@ tags: Music_2024
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm25027802/script"></script>
 <noscript><a href="http://www.nicovideo.jp/watch/sm25027802"></a></noscript>
 
+![](https://cdn.donmai.us/original/a2/c4/__original_drawn_by_aya_star__a2c4254b262aae5c0245fbaaf12c0dfc.jpg)
+
 
 ## Information (original)
 
@@ -75,7 +77,7 @@ tags: Music_2024
 もしも この世界が明日終わるなら
   만약 이 세상이 내일 끝나버린다면
 迷わずに ただ思いを告げて
-  망설이지 않고 그저 생각을 고해
+  망설이지 않고 마음을 전하고
 何もできなかった自分を
   아무것도 할 수 없었던 나를
 悔やむ 暇もないくらいに
@@ -147,7 +149,7 @@ tags: Music_2024
 投げ捨てた君への愛を
   내던졌던 너에 대한 사랑을
 今 灯して
-  지금 태워밝혀
+  지금 밝혀
 
 君だけを
   너만을
